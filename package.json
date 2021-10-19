@@ -1,0 +1,19 @@
+{
+  "name": "java教程",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mark420524/java.git"
+  },
+  "keywords": ["java教程","j2se"],
+  "author": "Mark",
+  "license": "ISC",
+  "devDependencies": {
+    "honkit": "^3.6.22"
+  }
+}
