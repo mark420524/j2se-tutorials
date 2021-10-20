@@ -4,7 +4,9 @@
   "description": "",
   "main": "",
   "scripts": {
-    "test": ""
+    "test": "",
+    "serve": "npx honkit serve",
+    "build": "npx honkit build"
   },
   "repository": {
     "type": "git",
