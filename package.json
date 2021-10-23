@@ -1,5 +1,5 @@
 {
-  "name": "java教程",
+  "name": "j2se-tutorials",
   "version": "1.0.0",
   "description": "",
   "main": "",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mark420524/java.git"
+    "url": "git+https://github.com/mark420524/j2se-tutorials.git"
   },
   "keywords": ["java教程","j2se"],
   "author": "Mark",
