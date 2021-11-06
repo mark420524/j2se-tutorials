@@ -1,0 +1,6 @@
+[1106/201951.357:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: browser
+[1106/201951.513:INFO:gpu_process_host.cc(941)] [XWEB_LOG_GPU]  GPU process laucnched multi-process mode SUCCESS!!! gpu-process-pid:1036 gpu-process-sandbox:1
+[1106/201951.596:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: gpu-process
+[1106/201951.999:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 515
+[1106/201952.018:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: utility
+[1106/202151.701:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: gpu-process
